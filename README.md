@@ -24,3 +24,9 @@ The solutions are in Python. Everything is judged as correct, either in contest 
   - Alien Generator (will add solution soon)
   - Rock Paper Scissors (will add solution soon)
   - Binary Operator (will add solution soon)
+- Round D - 2021
+  - Arithmetic Square
+  - Cutting Intervals
+  - Final Exam
+  - Primes and Queries
+
