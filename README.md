@@ -29,4 +29,9 @@ The solutions are in Python. Everything is judged as correct, either in contest 
   - Cutting Intervals
   - Final Exam
   - Primes and Queries
+- Round E - 2021
+  - Shuffled Anagrams
+  - Birthday Cake (Didn't attempt)
+  - Palindromic Crossword
+  - Increasing Sequence Card Game
 
